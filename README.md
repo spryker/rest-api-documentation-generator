@@ -4,6 +4,10 @@
 
 RestApiDocumentationGenerator provides console command to generate Open API specification for REST API in YAML format.
 
+**This module is not continued at this point.**
+
+Please, use [spryker/documentation-generator-rest-api](https://github.com/spryker/documentation-generator-rest-api) instead
+
 ## Installation
 
 ```
