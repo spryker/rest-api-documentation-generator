@@ -36,5 +36,6 @@
   },
   "config": {
     "sort-packages": true
-  }
+  },
+  "abandoned": "spryker/documentation-generator-rest-api"
 }
